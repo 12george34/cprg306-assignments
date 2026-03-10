@@ -9,7 +9,7 @@ type ItemProps = {
   name: string;
   quantity: number;
   category: string;
-  onSelect: () => void;
+  onSelect?: () => void;
 };
 
 type ItemListProps = {
