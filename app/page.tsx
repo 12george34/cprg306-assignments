@@ -9,12 +9,17 @@ export default function Page() {
       <a href="./week-3">week-3</a>
       <p></p>
       <a href="./week-4">week-4</a>
-       <p></p>
+      <p></p>
       <a href="./week-5">week-5</a>
-          <p></p>
+      <p></p>
       <a href="./week-6">week-6</a>
       <p></p>
       <a href="./week-7">week-7</a>
+      <p></p>
+      <a href="./week-8">week-8</a>
+      <p></p>
+      <a href="./week-10">week-10</a>
+
     </main>
   );
 }

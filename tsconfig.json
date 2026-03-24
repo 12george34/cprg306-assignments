@@ -29,6 +29,6 @@
     ".next/types/**/*.ts",
     ".next/dev/types/**/*.ts",
     "**/*.mts"
-, "app/week-7/meal-ideas.tsx", "app/week-7/item.tsx", "app/week-7/item-list.tsx", "app/week-7/page.tsx"  ],
+, "app/week-7/meal-ideas.tsx", "app/week-7/item.tsx", "app/week-7/item-list.tsx", "app/week-7/page.tsx", "app/week-8/page.tsx", "app/week-8/_utils/auth-context.tsx", "app/week-10/_servies/shopping-list-service.js", "app/week-10/shopping-list/page.js"  ],
   "exclude": ["node_modules"]
 }
