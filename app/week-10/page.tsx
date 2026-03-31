@@ -30,7 +30,7 @@ export default function Page() {
                     <button onClick={handleSignOut}>Logout</button>
                     <p></p>
 
-                    <Link href="/week-8/shopping-list/">
+                    <Link href="/week-10/shopping-list/">
                         <button> Shopping List</button>
                     </Link>
 
